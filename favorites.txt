@@ -1,2 +1,5 @@
-burger
-pasta with salmon
+Burger
+Pasta with salmon
+Almond sauce
+Pizza
+Rice with chicken
